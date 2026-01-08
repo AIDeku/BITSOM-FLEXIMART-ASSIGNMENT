@@ -1,0 +1,21 @@
+FLEXIMART ETL QUALITY REPORT
+============================
+Number of records processed per file:
+ - Customers: 26
+ - Products: 20
+ - Sales: 41
+
+Number of duplicates removed:
+ - Customers: 1
+ - Products: 0 (Manual check: No duplicate ID/Name combos in raw)
+ - Sales: 1
+
+Number of missing values handled:
+ - Customer Emails: 5
+ - Product Prices: 3
+ - Product Stock: 1
+ - Sales missing IDs (dropped): 5 (3 customer_ids + 2 product_ids)
+
+Number of records loaded successfully: 34 orders
+============================
+*Note: This report is generated automatically when the etl_pipeline.py script is run.*
