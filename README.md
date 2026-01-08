@@ -2,7 +2,7 @@
 
 **Student Name:** Aditya Singh
 **Student ID:** bitsom_ba_25071343
-**Email:** adityasingh2005@gmail.com
+**Email:** adityasingh95@gmail.com
 **Date:** January 8, 2026
 
 ## Project Overview
